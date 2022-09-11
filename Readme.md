@@ -19,7 +19,7 @@ If you have any questions about the code, please feel free to contact Jiang, Fei
 - [Simu_code_MultiBIC.R](simulation/Simu_code_MultiBIC.R)       is used to reproduce results in Table S4-S5 in the supplement with multiple tuning parameters combined by multi-bandwidth BIC.
 
 ### COVID Prediction
-realdata folder contains GOALS for COVID-19 data analysis.
+[realdata](realdata) folder contains GOALS for COVID-19 data analysis.
 - [CDC_Forecast folder](CDC_Forecast)           contains predictions based on CDC website
 - [covid_app.R](realdata/covid_app.R)                   is used to reproduce all the insample COVID-19 data analysis 
 - [prediction.R](realdata/prediction.R)                  is used to reproduce all the out-of-sample forecasting results for U.S. daily new cases

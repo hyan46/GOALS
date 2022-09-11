@@ -7,10 +7,10 @@ If you have any questions about the code, please feel free to contact Jiang, Fei
 
 ### Methods
 
-- Util_BIC.R          contains general R functions associated with codes regarding multi-scanning M-GOALS in Section S5.2 in the supplement.
-- Util_pool.R         contains general R functions used for (M-)GOALS: it produces subsample testing statistics defined at each time point. 
-- Util_SN.R           contains general R functions used for generation of DGPs in simulations and implementation of (M-)GOALS: 1. global testing part and 2. local scanning part
-- SN_MultipleSlope_CriticalValue.csv           contains the critical values (90%,95%,99%) of the pivotal distribution for each trimming parameter pairs of M-GOALS
+- [Util_BIC.R](methods/Util_BIC.R)          contains general R functions associated with codes regarding multi-scanning M-GOALS in Section S5.2 in the supplement.
+- [Util_pool.R](methods/Util_pool.R)         contains general R functions used for (M-)GOALS: it produces subsample testing statistics defined at each time point. 
+- [Util_SN.R](methods/Util_SN.R)           contains general R functions used for generation of DGPs in simulations and implementation of (M-)GOALS: 1. global testing part and 2. local scanning part
+- [SN_MultipleSlope_CriticalValue.csv](SN_MultipleSlope_CriticalValue.csv)           contains the critical values (90%,95%,99%) of the pivotal distribution for each trimming parameter pairs of M-GOALS
 
 ### Simulation
 simulation folder contains GOALS for simulations part regarding DGP 1-3:

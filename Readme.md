@@ -1,7 +1,7 @@
 ## Reference: 
 Here is the code for the paper: "Jiang, Feiyu, Zifeng Zhao, and Xiaofeng Shao. "Modelling the COVID‐19 infection trajectory: A piecewise linear quantile trend model." Journal of the Royal Statistical Society: Series B (Statistical Methodology) (2021)." The paper can be found [here](https://rss.org.uk/RSS/media/File-library/Events/Discussion%20meetings/Jiang-et-al-_JRSSB_discussion-paper_16-Jul-21.pdf).
 
-If you have any questions about the code, please feel free to contact Jiang, Feiyu with email jiangfy@fudan.edu.cn.
+If you have any questions about the code, please feel free to contact Jiang, Feiyu with email jiangfy@fudan.edu.cn and Shao, Xiaofeng with email xshao@illinois.edu.
 
 ## Code
 
